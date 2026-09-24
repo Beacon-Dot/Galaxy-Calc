@@ -1,0 +1,18 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "Galaxy Calc",
+  "orientation": "portrait",
+  "scope": "/",
+  "short_name": "Calc",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "id": "Samsung-Calculator",
+  "description": "A Calculator\nSimple, Minimalist, Modern.\nHas AI",
+  "lang": "en",
+  "categories": [
+    "education",
+    "productivity"
+  ]
+}
